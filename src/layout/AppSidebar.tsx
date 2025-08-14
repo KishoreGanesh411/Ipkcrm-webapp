@@ -29,14 +29,14 @@ const navItems: NavItem[] = [
   {
     icon: <GridIcon />,
     name: "Dashboard",
-    subItems: [{ name: "Ecommerce", path: "/", pro: false }],
+    subItems: [{ name: "IPK-Digital", path: "/", pro: false }],
   },
   {
     icon: <CalenderIcon />,
     name: "Calendar",
     path: "/calendar",
   },
-  // {
+  // {  
   //   icon: <UserCircleIcon />,
   //   name: "User Profile",
   //   path: "/profile",
